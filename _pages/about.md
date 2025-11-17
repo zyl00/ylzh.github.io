@@ -21,7 +21,7 @@ I am a third-year Ph.D. student from the School of Information and Communication
 
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 Our work "3DVidar: A Contact-free 3D Vibration Sensing System Based on a Single mmWave Radar" has been accepted by IEEE INFOCOM 2025 (CCF-A, 18.6%). [[Wechat Link]](https://mp.weixin.qq.com/s/qHGa29piFxBQlZDO8lkoWw)  [[Poster]](docs/INFOCOM25_Poster.pdf)
+- *2024.12*: &nbsp;🎉🎉 Our work "3DVidar: A Contact-free 3D Vibration Sensing System Based on a Single mmWave Radar" has been accepted by IEEE INFOCOM 2025 (CCF-A, 18.6%). [[Wechat Link]](https://mp.weixin.qq.com/s/qHGa29piFxBQlZDO8lkoWw)  [[Poster]](../docs/INFOCOM25_Poster.pdf)
 - *2024.12*: &nbsp;🎉🎉 Our work "SpDiff: A Speech Sensing System with Diffusion Model Based on mm Wave Radar" has been accepted by IEEE WCNC 2025.
 
 # 📝 Publications 
@@ -37,8 +37,7 @@ I am a third-year Ph.D. student from the School of Information and Communication
 <div class='paper-box-text' markdown="1">
   
 **Y. Zhang**, X. Li*, Y. Sun. 3DVidar: A Contact-free 3D Vibration Sensing System Based on a Single mmWave Radar. [[PDF]](https://ieeexplore.ieee.org/document/11044442) 
-</div>
-</div>
+
 
 # 🎖 Honors and Awards
 - 2025, 第二十届中国研究生电子设计竞赛 小米企业专项全国三等奖
