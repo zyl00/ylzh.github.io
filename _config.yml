@@ -25,7 +25,8 @@ author:
   avatar           : "images/my_fig.jpg"
   bio              : 
   location         : "Dalian, China"
-  employer         : "Dalian University of Technology"
+  university       : "Dalian University of Technology"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=wPD-57wAAAAJ&hl=zh-CN"
   email            : "zhangyul@mail.dlut.edu.cn"
