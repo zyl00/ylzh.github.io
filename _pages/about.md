@@ -32,16 +32,18 @@ My research interest includes reinforcement learning in wireless networks, mmWav
 - X. Li*, **Y. Zhang**, H. Ding, Y. Fang. Intelligent Spectrum Sensing and Access with Partial Observation Based on Hierarchical Multi-Agent Deep Reinforcement Learning[J]. IEEE Transactions on Wireless Communications, 2024, 23(4): 3131-3145. (Top, JCR Q1)[[PDF]](https://ieeexplore.ieee.org/document/10226499)
 - X. Li*, **Y. Zhang**, H. Ding, Y. Fang. A joint scheme on spectrum sensing and access with partial observation: A multi-agent deep reinforcement learning approach[C]. IEEE/CIC International Conference on Communications in China (ICCC), 2023. [[PDF]](https://ieeexplore.ieee.org/document/10233366)
 # 🎖 Honors and Awards
-- 2025, 第二十届中国研究生电子设计竞赛 小米企业专项全国三等奖
-- 2024, 第十九届中国研究生电子设计竞赛 TI 企业专项全国三等奖
-- 2024, 泛在智能感知技术创新应用大赛 全国三等奖
-- 2023, 第十八届中国研究生电子设计竞赛 东北赛区一等奖
+- *2025*, 第二十届中国研究生电子设计竞赛 小米企业专项全国三等奖
+- *2024*, 第十九届中国研究生电子设计竞赛 TI 企业专项全国三等奖
+- *2024*, 泛在智能感知技术创新应用大赛 全国三等奖
+- *2023*, 大连理工大学 优秀研究生
+- *2023*, 第十八届中国研究生电子设计竞赛 东北赛区一等奖
   
 ---
 (English version)
 - *2025*, National Third Prize (Xiaomi Enterprise Special Track), The 20th China Postgraduate Electronic Design Competition
 - *2024*, National Third Prize (TI Enterprise Special Track), The 19th China Postgraduate Electronic Design Competition
 - *2024*, National Third Prize, Ubiquitous Intelligent Sensing Technology Innovation and Application Competition
+- *2023*, Outstanding Postgraduate of Dalian University of Technology
 - *2023*, First Prize (Northeast China Division), The 18th China Postgraduate Electronic Design Competition
 
 # 📖 Educations
