@@ -17,14 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yulong Zhang (S’22) received the B.S. degree from the Dalian University of Technology, China, where he is currently pursuing the graduate degree with the School of Information and Communication Engineering.
-His current research interests include cognitive communications and wireless sensing.
-
-My research interest includes mmWave radar based wireless sensing, signal processing and deep learning.
+I am a third-year Ph.D. student from the School of Information and Communication Engineering of Dalian University of Technology, under the joint supervision of Associate Prof. [Xuanheng Li](https://faculty.dlut.edu.cn/2018011001/zh_CN/index.htm) and Prof. [Yi Sun](https://faculty.dlut.edu.cn/sunyi/zh_CN/index/774887/list/index.htm). My research interest includes mmWave radar based wireless sensing, signal processing and deep learning.
 
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 Our work _3DVidar_ is accepted by IEEE INFOCOM 2025.  
+- *2024.12*: &nbsp;🎉🎉 Our work "3DVidar: A Contact-free 3D Vibration Sensing System Based on a Single mmWave Radar" has been accepted by IEEE INFOCOM 2025.
+- *2024.12*: &nbsp;🎉🎉 Our work "SpDiff: A Speech Sensing System with Diffusion Model Based on mm Wave Radar" has been accepted by IEEE WCNC 2025.
 
 # 📝 Publications 
 
@@ -43,16 +41,22 @@ My research interest includes mmWave radar based wireless sensing, signal proces
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 2025, 第二十届中国研究生电子设计竞赛 小米企业专项全国三等奖
+- 2024, 第十九届中国研究生电子设计竞赛 TI 企业专项全国三等奖
+- 2024, 泛在智能感知技术创新应用大赛 全国三等奖
+- 2023, 第十八届中国研究生电子设计竞赛 东北赛区一等奖
+---
+(English version)
+- *2025*, National Third Prize (Xiaomi Enterprise Special Track), The 20th China Postgraduate Electronic Design Competition
+- *2024*, National Third Prize (TI Enterprise Special Track), The 19th China Postgraduate Electronic Design Competition
+- *2024*, National Third Prize, Ubiquitous Intelligent Sensing Technology Innovation and Application Competition
+- *2023*, First Prize (Northeast China Division), The 18th China Postgraduate Electronic Design Competition
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2023.09 - Present*, Ph.D. Candidate, School of Information and Communication Engineering, Dalian University of Technology, China (Direct Ph.D. program after Master’s transfer)
+- *2021.09 - 2023.06*, Master’s Student, School of Information and Communication Engineering, Dalian University of Technology, China
+- *2017.09 - 2021.06*, B.S. Degree, Dalian University of Technology, China
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
