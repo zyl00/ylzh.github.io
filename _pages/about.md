@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year Ph.D. student from the School of Information and Communication Engineering of Dalian University of Technology, under the joint supervision of Associate Prof. [Xuanheng Li](https://faculty.dlut.edu.cn/2018011001/zh_CN/index.htm) and Prof. [Yi Sun](https://faculty.dlut.edu.cn/sunyi/zh_CN/index/774887/list/index.htm). My research interest includes mmWave radar based wireless sensing, signal processing and deep learning.
+I am a third-year Ph.D. student from the School of Information and Communication Engineering of Dalian University of Technology, under the joint supervision of Associate Prof. [Xuanheng Li](https://faculty.dlut.edu.cn/2018011001/zh_CN/index.htm) and Prof. [Yi Sun](https://faculty.dlut.edu.cn/sunyi/zh_CN/index/774887/list/index.htm). My research interest includes mmWave radar based wireless sensing, signal processing and deep learning. Here is my [CV](images/my_fig.jpg).
 
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 Our work "3DVidar: A Contact-free 3D Vibration Sensing System Based on a Single mmWave Radar" has been accepted by IEEE INFOCOM 2025.
+- *2024.12*: &nbsp;🎉🎉 Our work "3DVidar: A Contact-free 3D Vibration Sensing System Based on a Single mmWave Radar" has been accepted by IEEE INFOCOM 2025. [Wechat Link](https://mp.weixin.qq.com/s/qHGa29piFxBQlZDO8lkoWw)
 - *2024.12*: &nbsp;🎉🎉 Our work "SpDiff: A Speech Sensing System with Diffusion Model Based on mm Wave Radar" has been accepted by IEEE WCNC 2025.
 
 # 📝 Publications 
@@ -45,13 +45,13 @@ I am a third-year Ph.D. student from the School of Information and Communication
 - 2024, 第十九届中国研究生电子设计竞赛 TI 企业专项全国三等奖
 - 2024, 泛在智能感知技术创新应用大赛 全国三等奖
 - 2023, 第十八届中国研究生电子设计竞赛 东北赛区一等奖
+  
 ---
 (English version)
 - *2025*, National Third Prize (Xiaomi Enterprise Special Track), The 20th China Postgraduate Electronic Design Competition
 - *2024*, National Third Prize (TI Enterprise Special Track), The 19th China Postgraduate Electronic Design Competition
 - *2024*, National Third Prize, Ubiquitous Intelligent Sensing Technology Innovation and Application Competition
 - *2023*, First Prize (Northeast China Division), The 18th China Postgraduate Electronic Design Competition
-
 
 # 📖 Educations
 - *2023.09 - Present*, Ph.D. Candidate, School of Information and Communication Engineering, Dalian University of Technology, China (Direct Ph.D. program after Master’s transfer)
