@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year Ph.D. student from the School of Information and Communication Engineering of Dalian University of Technology, under the joint supervision of Associate Prof. [Xuanheng Li](https://faculty.dlut.edu.cn/2018011001/zh_CN/index.htm) and Prof. [Yi Sun](https://faculty.dlut.edu.cn/sunyi/zh_CN/index/774887/list/index.htm). My research interest includes mmWave radar based wireless sensing, signal processing and deep learning. Here is my [CV](images/my_fig.jpg).
+I am a third-year Ph.D. student from the School of Information and Communication Engineering of Dalian University of Technology, under the joint supervision of Associate Prof. [Xuanheng Li](https://faculty.dlut.edu.cn/2018011001/zh_CN/index.htm) and Prof. [Yi Sun](https://faculty.dlut.edu.cn/sunyi/zh_CN/index/774887/list/index.htm). My research interest includes mmWave radar based wireless sensing, signal processing and deep learning. 
 
 
 # 🔥 News
@@ -25,7 +25,16 @@ I am a third-year Ph.D. student from the School of Information and Communication
 - *2024.12*: &nbsp;🎉🎉 Our work "SpDiff: A Speech Sensing System with Diffusion Model Based on mm Wave Radar" has been accepted by IEEE WCNC 2025.
 
 # 📝 Publications 
-- **Y. Zhang**, X. Li*, Y. Sun. 3DVidar: A Contact-free 3D Vibration Sensing System Based on a Single mmWave Radar[C]. IEEE International Conference on Computer Communications (INFOCOM), 2025. (CCF-A, 18.6%) [[PDF]](https://ieeexplore.ieee.org/document/11044442) [[Poster]](../docs/INFOCOM25_Poster.pdf)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+
+**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+
+---
+
+- **Y. Zhang**, X. Li*, Y. Sun. 3DVidar: A Contact-free 3D Vibration Sensing System Based on a Single mmWave Radar[C]. IEEE International Conference on Computer Communications (INFOCOM), 2025. (CCF-A, 18.6%) [[PDF]](https://ieeexplore.ieee.org/document/11044442) [Poster](../docs/INFOCOM25_Poster.pdf)
 - C. Jin, **Y. Zhang**, X. Li, Y. Sun, J. Wang, Y. Fang. SpDiff: A Speech Sensing System with Diffusion Model Based on mm Wave Radar[C]. IEEE Wireless Communications and Networking Conference (WCNC), 2025.
 - X. Li*, **Y. Zhang**, H. Ding, Y. Fang. Intelligent Spectrum Sensing and Access with Partial Observation Based on Hierarchical Multi-Agent Deep Reinforcement Learning[J]. IEEE Transactions on Wireless Communications, 2024, 23(4): 3131-3145. (Top, JCR Q1)
 - X. Li*, **Y. Zhang**, H. Ding, Y. Fang. A joint scheme on spectrum sensing and access with partial observation: A multi-agent deep reinforcement learning approach[C]. IEEE/CIC International Conference on Communications in China (ICCC), 2023.
@@ -43,9 +52,6 @@ I am a third-year Ph.D. student from the School of Information and Communication
 - *2023*, First Prize (Northeast China Division), The 18th China Postgraduate Electronic Design Competition
 
 # 📖 Educations
-- *2023.09 - Present*, Ph.D. Candidate, School of Information and Communication Engineering, Dalian University of Technology, China (Direct Ph.D. program after Master’s transfer)
-- *2021.09 - 2023.06*, Master’s Student, School of Information and Communication Engineering, Dalian University of Technology, China
-- *2017.09 - 2021.06*, B.S. Degree, Dalian University of Technology, China
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.09 - Present*, Ph.D. Candidate, School of Information and Communication Engineering, Dalian University of Technology, China. (Direct Ph.D. program after Master’s transfer). Supervisor: Prof. Yi Sun & Xuanheng Li.
+- *2021.09 - 2023.06*, Master’s Student, School of Information and Communication Engineering, Dalian University of Technology, China. Supervisor: Prof. Xuanheng Li.
+- *2017.09 - 2021.06*, B.S. Degree, Dalian University of Technology, China.
