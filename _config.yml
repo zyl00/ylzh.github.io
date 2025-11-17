@@ -9,7 +9,7 @@
 title                    : "Yulong Zhang"
 description              : "PhD student"
 repository               : "zyl00/zyl00.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yulong Zhang(玉龙)"
+  name             : "Yulong Zhang"
   avatar           : "images/my_fig.jpg"
   bio              : 
   location         : "Dalian, China"
