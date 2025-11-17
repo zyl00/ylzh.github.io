@@ -21,13 +21,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yulong Zhang"
+  name             : "Yulong Zhang(张玉龙)"
   avatar           : "images/my_fig.jpg"
-  bio              : "PhD student"
+  bio              : ""
   location         : "Dalian, China"
-  employer         : "Dalian University of Technology"
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  employer         : 
+  pubmed           : "Dalian University of Technology"
+  googlescholar    : "https://scholar.google.com/citations?user=wPD-57wAAAAJ&hl=zh-CN"
   email            : "zhangyul@mail.dlut.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
