@@ -8,13 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
 Hi there, I'm Yulong Zhang (Chinese name: 张玉龙). I am currently a third-year Ph.D. student from the School of Information and Communication Engineering of Dalian University of Technology, under the joint supervision of Associate Prof. [Xuanheng Li](https://faculty.dlut.edu.cn/2018011001/zh_CN/index.htm) and Prof. [Yi Sun](https://faculty.dlut.edu.cn/sunyi/zh_CN/index/774887/list/index.htm). 
