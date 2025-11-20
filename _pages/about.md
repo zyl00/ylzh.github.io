@@ -2,15 +2,22 @@
 permalink: /
 title: "yL"
 excerpt: ""
-author_profile: false
+author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
 <span class='anchor' id='about-me'></span>
 
-Hi there, I'm Yulong Zhang (Chinese name: 张玉龙). I am currently a third-year Ph.D. student from the School of Information and Communication Engineering of Dalian University of Technology, under the joint supervision of Associate Prof. [Xuanheng Li](https://faculty.dlut.edu.cn/2018011001/zh_CN/index.htm) and Prof. [Yi Sun](https://faculty.dlut.edu.cn/sunyi/zh_CN/index/774887/list/index.htm). 
+Hi there, I'm Yulong Zhang (Chinese name: 张玉龙). I am currently a third-year Ph.D. student from the School of Information and Communication Engineering of Dalian University of Technology, under the joint supervision of Associate Prof. [Xuanheng Li](https://faculty.dlut.edu.cn/2018011001/zh_CN/index.htm) and Prof. [Yi Sun](https://faculty.dlut.edu.cn/sunyi/zh_CN/index/774887/list/index.htm). Total <a href='https://scholar.google.com/citations?user=wPD-57wAAAAJ&hl=zh-CN'>google scholar citations  <a href='https://scholar.google.com/citations?user=wPD-57wAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 My research interest includes reinforcement learning in wireless networks, mmWave radar based wireless sensing, signal processing and deep learning. 
 
@@ -20,6 +27,20 @@ My research interest includes reinforcement learning in wireless networks, mmWav
 - *2024.12*: &nbsp;🎉🎉 Our work "SpDiff: A Speech Sensing System with Diffusion Model Based on mm Wave Radar" has been accepted by IEEE WCNC 2025.
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+
+**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+---
 
 - **Y. Zhang**, X. Li*, Y. Sun. 3DVidar: A Contact-free 3D Vibration Sensing System Based on a Single mmWave Radar[C]. IEEE International Conference on Computer Communications (INFOCOM), 2025. (CCF-A, 18.6%) [[PDF]](https://ieeexplore.ieee.org/document/11044442) [[Poster]](pdf/INFOCOM25_Poster.pdf) [[Slide]](pdf/3DVidar_INFOCOM2025.pptx)
 - C. Jin, **Y. Zhang**, X. Li, Y. Sun, J. Wang, Y. Fang. SpDiff: A Speech Sensing System with Diffusion Model Based on mm Wave Radar[C]. IEEE Wireless Communications and Networking Conference (WCNC), 2025. [[PDF]](https://ieeexplore.ieee.org/abstract/document/10978346)
