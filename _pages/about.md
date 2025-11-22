@@ -19,7 +19,7 @@ redirect_from:
 
 Hi there, I'm Yulong Zhang (Chinese name: 张玉龙). I am currently a third-year Ph.D. student from the School of Information and Communication Engineering of Dalian University of Technology, under the joint supervision of Associate Prof. [Xuanheng Li](https://faculty.dlut.edu.cn/2018011001/zh_CN/index.htm) and Prof. [Yi Sun](https://faculty.dlut.edu.cn/sunyi/zh_CN/index/774887/list/index.htm). 
 
-My research interest includes reinforcement learning in wireless networks, mmWave radar based wireless sensing, signal processing and deep learning. 
+My research interest includes reinforcement learning in wireless networks, mmWave radar based **wireless sensing**, signal processing and deep learning. 
 
 # 🔥 News
 
@@ -27,6 +27,8 @@ My research interest includes reinforcement learning in wireless networks, mmWav
 - *2024.12*: &nbsp;🎉🎉 Our work "SpDiff: A Speech Sensing System with Diffusion Model Based on mm Wave Radar" has been accepted by IEEE WCNC 2025.
 
 # 📝 Publications 
+
+**Y. Zhang**, X. Li*, Y. Sun. 3DVidar: A Single mmWave Radar based 3D Vibration Sensing Method via Multi-Point Multi-Path Multi-Antenna Enhancement[J]. Submitted to IEEE Transactions on Mobile Computing. (Under Review, Major Revision)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOCOM 2025</div><img src='images/INFOCOM25.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
