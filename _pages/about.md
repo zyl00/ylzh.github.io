@@ -23,6 +23,7 @@ My research interest includes reinforcement learning in wireless networks, mmWav
 
 # 🔥 News
 
+- *2026.03*: &nbsp;🎉🎉 Our work "3DVidar: A Single mmWave Radar based 3D Vibration Sensing Method via Multi-Point Multi-Path Multi-Antenna Enhancement" has been accepted by IEEE Transactions on Mobile Computing (CCF-A).
 - *2025.12*: &nbsp;🎉🎉 Our work "Contact-less Rotation Speed Measurement of Small-scale Rotors Based on mm-Wave Radar" has been accepted by IEEE IEEE Transactions on Instrumentation and Measurement.
 - *2024.12*: &nbsp;🎉🎉 Our work "3DVidar: A Contact-free 3D Vibration Sensing System Based on a Single mmWave Radar" has been accepted by IEEE INFOCOM 2025 (CCF-A, 18.6%). [[Wechat Link]](https://mp.weixin.qq.com/s/qHGa29piFxBQlZDO8lkoWw)  
 - *2024.12*: &nbsp;🎉🎉 Our work "SpDiff: A Speech Sensing System with Diffusion Model Based on mm Wave Radar" has been accepted by IEEE WCNC 2025.
@@ -31,7 +32,7 @@ My research interest includes reinforcement learning in wireless networks, mmWav
 
 - X. Li, J. Wang, **Y. Zhang**, H. Ding, J. Wang and X. Chen. Contact-less Rotation Speed Measurement of Small-scale Rotors Based on mmWave Radar[J]. IEEE Transactions on Instrumentation and Measurement, 2026, 75: 8001614. [[PDF]](https://ieeexplore.ieee.org/document/11369286)
 
-- **Y. Zhang**, X. Li*, Y. Sun. 3DVidar: A Single mmWave Radar based 3D Vibration Sensing Method via Multi-Point Multi-Path Multi-Antenna Enhancement[J]. Submitted to IEEE Transactions on Mobile Computing. (Under Review, **Major Revision**)
+- **Y. Zhang**, X. Li*, Y. Sun. 3DVidar: A Single mmWave Radar based 3D Vibration Sensing Method via Multi-Point Multi-Path Multi-Antenna Enhancement[J]. Accepted by IEEE Transactions on Mobile Computing, To Appear.
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOCOM 2025</div><img src='images/INFOCOM25.jpg' alt="sym" width="100%"></div></div>
