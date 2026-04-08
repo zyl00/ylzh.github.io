@@ -19,12 +19,12 @@ redirect_from:
 
 Hi there, I'm Yulong Zhang (Chinese name: 张玉龙). I am currently a third-year Ph.D. student from the School of Information and Communication Engineering of Dalian University of Technology, under the joint supervision of Associate Prof. [Xuanheng Li](https://faculty.dlut.edu.cn/2018011001/zh_CN/index.htm) and Prof. [Yi Sun](https://faculty.dlut.edu.cn/sunyi/zh_CN/index/774887/list/index.htm). 
 
-My research interest includes reinforcement learning in wireless networks, mmWave radar based **wireless sensing**, signal processing and deep learning. 
+My research interest includes reinforcement learning in wireless networks, mmWave radar based **wireless sensing**, and large langurage model. 
 
 # 🔥 News
 
 - *2026.03*: &nbsp;🎉🎉 Our work "3DVidar: A Single mmWave Radar based 3D Vibration Sensing Method via Multi-Point Multi-Path Multi-Antenna Enhancement" has been accepted by IEEE Transactions on Mobile Computing (CCF-A).
-- *2025.12*: &nbsp;🎉🎉 Our work "Contact-less Rotation Speed Measurement of Small-scale Rotors Based on mm-Wave Radar" has been accepted by IEEE IEEE Transactions on Instrumentation and Measurement.
+- *2025.12*: &nbsp;🎉🎉 Our work "Contact-less Rotation Speed Measurement of Small-scale Rotors Based on mm-Wave Radar" has been accepted by IEEE Transactions on Instrumentation and Measurement.
 - *2024.12*: &nbsp;🎉🎉 Our work "3DVidar: A Contact-free 3D Vibration Sensing System Based on a Single mmWave Radar" has been accepted by IEEE INFOCOM 2025 (CCF-A, 18.6%). [[Wechat Link]](https://mp.weixin.qq.com/s/qHGa29piFxBQlZDO8lkoWw)  
 - *2024.12*: &nbsp;🎉🎉 Our work "SpDiff: A Speech Sensing System with Diffusion Model Based on mm Wave Radar" has been accepted by IEEE WCNC 2025.
 
