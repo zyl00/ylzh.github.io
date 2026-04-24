@@ -45,7 +45,7 @@ My research interest includes reinforcement learning in wireless networks, mmWav
 
 - C. Jin, **Y. Zhang**, X. Li, Y. Sun, J. Wang, Y. Fang. SpDiff: A Speech Sensing System with Diffusion Model Based on mm Wave Radar[C]. IEEE Wireless Communications and Networking Conference (WCNC), 2025. [[PDF]](https://ieeexplore.ieee.org/abstract/document/10978346)
 - X. Li*, **Y. Zhang**, H. Ding, Y. Fang. Intelligent Spectrum Sensing and Access with Partial Observation Based on Hierarchical Multi-Agent Deep Reinforcement Learning[J]. IEEE Transactions on Wireless Communications, 2024, 23(4): 3131-3145. (Top, JCR Q1)[[PDF]](https://ieeexplore.ieee.org/document/10226499)
-- X. Li*, **Y. Zhang**, H. Ding, Y. Fang. A joint scheme on spectrum sensing and access with partial observation: A multi-agent deep reinforcement learning approach[C]. IEEE/CIC International Conference on Communications in China (ICCC), 2023. [[PDF]](https://ieeexplore.ieee.org/document/10233366)
+- **Y. Zhang**, X. Li*, H. Ding, Y. Fang. A joint scheme on spectrum sensing and access with partial observation: A multi-agent deep reinforcement learning approach[C]. IEEE/CIC International Conference on Communications in China (ICCC), 2023. [[PDF]](https://ieeexplore.ieee.org/document/10233366)
 
 
 # 🎖 Honors and Awards
