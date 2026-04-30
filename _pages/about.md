@@ -30,7 +30,7 @@ My research interest includes reinforcement learning in wireless networks, mmWav
 
 # 📝 Publications 
 
-- **Y. Zhang**, X. Li*, Y. Sun. 3DVidar: A Single mmWave Radar based 3D Vibration Sensing Method via Multi-Point Multi-Path Multi-Antenna Enhancement[J]. Accepted by IEEE Transactions on Mobile Computing, Early Access. [[PDF]](https://ieeexplore.ieee.org/document/11458861)
+- **Y. Zhang**, X. Li*, Y. Sun. 3DVidar: A Single mmWave Radar based 3D Vibration Sensing Method via Multi-Point Multi-Path Multi-Antenna Enhancement[J]. Accepted by IEEE Transactions on Mobile Computing, Early Access. [[PDF]](https://ieeexplore.ieee.org/document/11458861) [[Poster]](pdf/3DVidar_TMC_poster.pdf)
 
 - X. Li, J. Wang, **Y. Zhang**, H. Ding, J. Wang and X. Chen. Contact-less Rotation Speed Measurement of Small-scale Rotors Based on mmWave Radar[J]. IEEE Transactions on Instrumentation and Measurement, 2026, 75: 8001614. [[PDF]](https://ieeexplore.ieee.org/document/11369286)
 
